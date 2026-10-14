@@ -1,0 +1,14 @@
+{
+  "P0004": {
+    "img": "D:\\zust\\3d_oct\\Fig.4-5\\20240529-ql_3D_3.5x3.5_P0004.tif",
+    "seg": "D:\\zust\\3d_oct\\Fig.4-5\\20240529-ql_3D_3.5x3.5_P0004_mask.tif"
+  },
+  "P0013": {
+    "img": "D:\\zust\\3d_oct\\Fig.4-5\\20240529-ql_3D_3.5x3.5_P0013.tif",
+    "seg": "D:\\zust\\3d_oct\\Fig.4-5\\20240529-ql_3D_3.5x3.5_P0013_mask.tif"
+  },
+  "P0019": {
+    "img": "D:\\zust\\3d_oct\\Fig.4-5\\20240529-ql_3D_3.5x3.5_P0019.tif",
+    "seg": "D:\\zust\\3d_oct\\Fig.4-5\\20240529-ql_3D_3.5x3.5_P0019_mask.tif"
+  }
+}

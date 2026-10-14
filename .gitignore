@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 训练产物
+runs/
+*.pt
+*.ckpt
+train_log.csv
+
+# 数据（体积太大不进 git；获取方式见 README「数据获取」）
+*.npy
+data/volumes/
+data/volumes_bmp/
+data/volumes_synth/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
